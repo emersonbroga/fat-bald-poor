@@ -1,9 +1,11 @@
 # React App - Gordo, Careca e Pobre
 
-[!React App - Gordo, Careca e Pobre](http://i3.ytimg.com/vi/4D1mUR4bD_Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=4D1mUR4bD_Y)
+[![!React App - Gordo, Careca e Pobre](http://i3.ytimg.com/vi/4D1mUR4bD_Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=4D1mUR4bD_Y)
 
 No projeto de hoje, vamos fazer um projeto bem simples, mas bem didático!
 Você vai aprender React Hooks, como fazer animação SVG, como fazer a lógica do projeto.
+
+[➜ Participe da nossa lista de desenvolvedores](https://emersonbroga.com/e/participe/?utm_source=github&utm_medium=social-media-snippets&utm_campaign=2020-01-14)
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
 
